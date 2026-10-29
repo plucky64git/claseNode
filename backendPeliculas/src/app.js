@@ -1,4 +1,5 @@
-console.log("Hola desde node.js");
+import peliculas from './data/peliculas.js';
 
-const curso="Curso de Node.js";
-console.log(curso);
+
+
+
